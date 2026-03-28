@@ -6,7 +6,7 @@ Angry Birds clone game in JavaScript.
 
 ## Web:
 
-https://lrusso.github.io/AngryBirds/AngryBirds.htm
+https://tvdai2k2.github.io/AngryBirds/AngryBirds.htm
 
 ## Disclaimer
 
