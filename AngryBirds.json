@@ -2,7 +2,7 @@
 	"name": "Angry Birds",
 	"short_name": "Angry Birds",
 	"lang": "en-US",
-	"start_url": "https://tvdai2k2.github.io/AngryBirds/AngryBirds.htm",
+	"start_url": "https://tvdai2k2.github.io/AngryBirds/index.html",
 	"display": "standalone",
 	"orientation": "landscape",
 	"theme_color": "#000000",
