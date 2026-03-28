@@ -1,10 +1,10 @@
 const filesToCache = [
-	"AngryBirds.htm",
+	"index.html",
 	"AngryBirds.json",
-	"AngryBirds.png",
+	"03.png",
 	"AngryBirdsFavIcon_16x16.png",
-	"AngryBirdsFavIcon_192x192.png",
-	"AngryBirdsFavIcon_512x512.png",
+	"01-1.png",
+	"02.png",
 	"AngryBirdsGame.htm",
 	"AngryBirdsGame.js",
 	"AngryBirdsShare.png"
